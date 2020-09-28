@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MadLevel3Task2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="add_portal_fragment_label">Add Portal Fragment</string>
+    <string name="overview_fragment_label">Overview Fragment</string>
+    <string name="title_add_portal">Title</string>
+    <string name="url_title_add_portal">URL</string>
+    <string name="url_link">http://</string>
+    <string name="add_portal_btn_text">ADD PORTAL</string>
+    <string name="not_valid_portal">Invalid input</string>
+
+</resources>
